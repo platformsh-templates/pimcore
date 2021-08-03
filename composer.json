@@ -9,9 +9,10 @@
   "require": {
     "php": ">=7.2",
     "doctrine/orm": "^2.7",
-    "pimcore/pimcore": "~6.7.0",
+    "fpdf/fpdf": "^1.83",
+    "pimcore/pimcore": "~6.9.1",
     "platformsh/config-reader": "^2.3",
-    "wikimedia/composer-merge-plugin": "^1.4"
+    "wikimedia/composer-merge-plugin": "^2.0.1"
   },
   "require-dev": {
     "cache/integration-tests": "^0.16.0",
