@@ -8,9 +8,9 @@
   },
   "require": {
     "php": ">=7.2",
-    "doctrine/orm": "^2.7",
+    "doctrine/orm": "2.7.3",
     "pimcore/pimcore": "~6.7.0",
-    "platformsh/config-reader": "^2.3",
+    "platformsh/config-reader": "^2.4",
     "wikimedia/composer-merge-plugin": "^1.4"
   },
   "require-dev": {
